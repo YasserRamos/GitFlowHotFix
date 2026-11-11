@@ -1,0 +1,42 @@
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compilación .NET
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+
+# Visual Studio
+*.cache
+*.pdb
+*.ilk
+*.log
+*.tmp
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+
+# Pruebas
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Rider
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
